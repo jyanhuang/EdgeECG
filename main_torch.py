@@ -14,7 +14,7 @@ from sklearn.metrics import accuracy_score
 from tqdm import tqdm
 
 from utils import load_data, plot_heat_map, model_select
-from FPGM import prune
+from DCP import prune
 
 seed = 42
 torch.manual_seed(seed)
