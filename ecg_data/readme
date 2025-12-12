@@ -1,1 +1,4 @@
 Please put your ECG signal dataset in this fold.
+|-EdgeeECG
+|--ecg_data
+|---[ecg signals]
